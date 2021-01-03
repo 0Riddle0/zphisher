@@ -2,7 +2,7 @@
 <a href="#"><img title="Made in Egypt" src="https://img.shields.io/badge/MADE%20IN-Egypt-black?colorA=%C0C0C0&colorB=%C0C0C0&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
+<a href="#"><img title="Host" src="https://github.com/0Riddle0/zphisher/blob/main/zphisher.png"></a>
 </p>
 <p align="center">
 <a href="https://github.com/0Riddle0"><img title="Author" src="https://img.shields.io/badge/Author-0Riddle0-red.svg?style=for-the-badge&logo=github"></a>
